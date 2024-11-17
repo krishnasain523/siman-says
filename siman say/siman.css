@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: wheat;
+}
+
+
+.btn{
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin: 0.4rem;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color:#63aac0 ;
+}
+.purple{
+    background-color:#819ff9 ;
+}
+.gameflesh{
+    background-color: white;
+}
+.userflesh{
+    background-color: black;
+}
+#red
+{
+    box-shadow: 0px 0px 4px #d95980;
+    border: none;
+}
+#yellow
+{
+    box-shadow: 0px 0px 4px #f99b45;
+    border: none;
+}
+#green
+{
+    box-shadow: 0px 0px 4px #63aac0 ;
+    border: none;
+}
+#purple
+{
+    box-shadow: 0px 0px 4px #819ff9 ;
+    border: none;
+}
